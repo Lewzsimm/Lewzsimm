@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lewzsimm
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently beginning
+- 🌱 I’m currently into React!
 - 💞️ I’m looking to collaborate on whatever my skills and time allow for
 - 📫 How to reach me lewfitzsi@hotmail.com
 
